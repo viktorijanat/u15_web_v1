@@ -1,0 +1,16 @@
+.video-container{
+  position: center;
+  padding-bottom: 50%;
+  padding-top: 30px;
+  height: 0;
+  overflow: hidden;
+  padding-left: 300px;
+}
+
+.video-container iframe, .video-container object, .video-container embed{
+  position: center;
+  top: 0;
+  left: 0;
+  width: 77%;
+  height: 50%;
+}
